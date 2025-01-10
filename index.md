@@ -4,3 +4,6 @@ Nauka GitHub, dodanie nowego Pull Request
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [ ] Turn on GitHub Pages
+- [X] Outline my portfolio
+- [ ] Introduce myself to the world
